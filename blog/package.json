@@ -1,5 +1,5 @@
 {
-  "name": "blog-frontend",
+  "name": "blog",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,8 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^4.5.4",
+    "babel-plugin-import": "^1.13.0",
+    "markdown-navbar": "^1.4.3",
     "next": "9.5.2",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-markdown": "^4.3.1"
   }
 }
