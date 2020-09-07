@@ -10,8 +10,13 @@
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "antd": "^4.5.4",
+    "axios": "^0.20.0",
     "babel-plugin-import": "^1.13.0",
+    "fs": "^0.0.1-security",
+    "highlight": "^0.2.4",
+    "highlight.js": "^10.1.2",
     "markdown-navbar": "^1.4.3",
+    "marked": "^1.1.1",
     "next": "9.5.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
